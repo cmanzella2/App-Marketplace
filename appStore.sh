@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 1. app-store.png must be installed in /usr/local/App Marketplace/.
-# 2. Add apps in the apps array down below if you wish.
+# 2. Add apps and their Installomator label in the apps array down below if you wish.
 
 # Define current user
 currentUser=$( scutil <<< "show State:/Users/ConsoleUser" | awk '/Name :/ && ! /loginwindow/ { print $3 }' )
