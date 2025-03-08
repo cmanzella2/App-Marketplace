@@ -4,7 +4,7 @@ App Marketplace is a platform designed to simplify the deployment and management
 
 Current Use:
 1. Copy/Deploy "app-store.png" and "appStore.sh" to "/usr/local/App Marketplace/"
-2. Deploy and/or run App "Marketplace.shortcut" and "Add Shortcut".
+2. Deploy and/or run "App Marketplace.shortcut" and "Add Shortcut".
 3. Run the Shortcut.
 
 Note: App-Marketplace will install Installomator and SwiftDialog if not already installed.
